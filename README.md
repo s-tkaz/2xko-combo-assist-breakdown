@@ -10,11 +10,11 @@ A mock production breakdown for Riot Games’ *2XKO*, demonstrating how a Game P
 ## 📄 Documents
 | File | Description |
 |------|--------------|
-| [Feature Pitch](docs/01_feature_pitch.md) | Player problem, goals, and success metrics |
-| [Production Plan](docs/02_production_plan.md) | Milestones, timeline, and task breakdown |
-| [Cross-Discipline View](docs/03_cross_discipline_view.md) | Roles and dependencies |
-| [Risk Analysis](docs/04_risk_analysis.md) | Risks, blockers, and mitigation |
-| [Retrospective](docs/05_retrospective.md) | Reflection on production lessons learned |
+| [Feature Pitch](01_feature_pitch.md) | Player problem, goals, and success metrics |
+| [Production Plan](02_production_plan.md) | Milestones, timeline, and task breakdown |
+| [Cross-Discipline View](03_cross_discipline_view.md) | Roles and dependencies |
+| [Risk Analysis](04_risk_analysis.md) | Risks, blockers, and mitigation |
+| [Retrospective](05_retrospective.md) | Reflection on production lessons learned |
 
 ## 🧩 Key Highlights
 - Created Agile-based milestone roadmap (Prototype → Alpha → Beta → Live)
