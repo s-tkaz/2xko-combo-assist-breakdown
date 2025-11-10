@@ -23,7 +23,7 @@ A mock production breakdown for Riot Games’ *2XKO*, demonstrating how a Game P
 - Proposed success metrics: player adoption rate, combo accuracy delta, bug count per sprint
 
 ## 📸 Visuals
-![Pipeline](assets/production_pipeline.png)
+On the way...
 
 ## 🧠 Takeaway
 This project demonstrates my production thinking — how I would approach cross-team feature development, balance scope with player empathy, and maintain communication clarity under tight timelines.
